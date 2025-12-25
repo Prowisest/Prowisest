@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prowisest
 - 👀 I’m interested in programming and development
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Software Development with Ai
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me promiseakpan871@gmail.com
 
